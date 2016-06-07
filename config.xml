@@ -7,10 +7,10 @@ version = "1.0.0">
 
 <!-- versionCode is optional and Android only -->
 
-<name>Geolocalizacion</name>
+<name>Base de Datos</name>
 
 <description>
-App para ejemplificar la geolocalizacion
+App con BD
 </description>
 
 <preference name="phonegap-version" value="3.7.0"/>
